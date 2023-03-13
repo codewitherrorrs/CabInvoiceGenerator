@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\bin\Debug\net6.0\CabinInvoiceGenerator.exe
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\bin\Debug\net6.0\CabinInvoiceGenerator.deps.json
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\bin\Debug\net6.0\CabinInvoiceGenerator.runtimeconfig.json
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\bin\Debug\net6.0\CabinInvoiceGenerator.dll
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\bin\Debug\net6.0\CabinInvoiceGenerator.pdb
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\CabinInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\CabinInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\CabinInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\CabinInvoiceGenerator.AssemblyInfo.cs
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\CabinInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\CabinInvoiceGenerator.dll
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\refint\CabinInvoiceGenerator.dll
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\CabinInvoiceGenerator.pdb
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\CabinInvoiceGenerator.genruntimeconfig.cache
+C:\Users\USER\source\repos\CabinInvoiceGenerator\CabinInvoiceGenerator\obj\Debug\net6.0\ref\CabinInvoiceGenerator.dll
