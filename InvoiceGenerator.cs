@@ -8,6 +8,7 @@ namespace CabinInvoiceGenerator
 {
     public class InvoiceGenerator
     {
+
         public double CostPerKm = 10;
         public int CostPerMinute = 1;
         public int MinimumFare = 5;
